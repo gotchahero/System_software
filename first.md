@@ -28,12 +28,12 @@ ex)CPU, DRAM(Memory), ...
  
  2. Status information : ask the system for information like available memory, disk space, number of users ... 
                          and logging and debugging information 
- ex)<a href="https://jangpd007.tistory.com/54/" type="blank" gdb>gdb
+ ex)<a href="https://jangpd007.tistory.com/54/"type="blank">gdb
  
  3. Programming language support (ex) gcc, g++, javac, jython ...(somthing like compile option of linux ...)
  
  4. Programming loading and execution
- ex)<a href="https://ehpub.co.kr/tag/absolute-loader/" type="blank" absolute loader>absolute loader
+ ex)<a href="https://ehpub.co.kr/tag/absolute-loader/"type="blank">absolute loader
  
  5. Communication : provide the mechanism for creating virtual connections among processes, users, and computer systems.
  ==> 좀 뒤에 나오는 open() close()의 과정에서 개념을 좀 잡음.
