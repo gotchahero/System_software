@@ -45,7 +45,7 @@ ex)CPU, DRAM(Memory), ...
 
  All the file has 'Inode'
  Inode == Address of file in Memory.
- cf)<a href="https://thenicesj.tistory.com/217/"type="blank">Hard link, Symbolic link</a>
+ cf)<a href="https://thenicesj.tistory.com/217" type="blank">Hard link, Symbolic link</a>
 
 
  
