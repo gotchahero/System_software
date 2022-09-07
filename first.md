@@ -23,9 +23,20 @@ ex)CPU, DRAM(Memory), ...
  ==>효율적으로 컴퓨터의 리소스를 관리하고 할당하는 소프트웨어.
  
  <h4>Type of system software(or programming)</h4>
+ 
  1. File management (ex)Linxu command like cp, cd, ls, rm, mv, rename, ...
- 2. 
+ 
+ 2. Status information : ask the system for information like available memory, disk space, number of users ... 
+                         and logging and debugging information ex)<a href="https://jangpd007.tistory.com/54" type="blank>gdb
+ 
  3. Programming language support (ex) gcc, g++, javac, jython ...(somthing like compile option of linux ...)
- 4. Programming loading and execution <a href="https://ehpub.co.kr/tag/absolute-loader/" type="blank">absolute loader
+ 
+ 4. Programming loading and execution
+ 
+ 5. Communication : provide the mechanism for creating virtual connections among processes, users, and computer systems.
+ ==> 좀 뒤에 나오는 open() close()의 과정에서 개념을 좀 잡음.
+ ex) telenet, ping, kill
+ 
+ ex)<a href="https://ehpub.co.kr/tag/absolute-loader/" type="blank">absolute loader
 
  
