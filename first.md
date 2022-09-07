@@ -50,9 +50,7 @@ ex)CPU, DRAM(Memory), ...
  
  <=======>(I/O <b>bus</b>)
  
- USB Controller[keyboard, mouse], Graphics adapter[monitor], disk controller[disk], //====>(expension slots) 
- 
-                                                                                     *slots for other devices(like network adapters)
+ USB Controller[keyboard, mouse], Graphics adapter[monitor], disk controller[disk], //====>(expension slots) slots for other devices(like network adapters)
  
  <h4>Sequence of Systemcalls</h4>
  
