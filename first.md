@@ -26,6 +26,6 @@ ex)CPU, DRAM(Memory), ...
  1. File management (ex)Linxu command like cp, cd, ls, rm, mv, rename, ...
  2. 
  3. Programming language support (ex) gcc, g++, javac, jython ...(somthing like compile option of linux ...)
- 4. Programming loading and execution <a href="https://ehpub.co.kr/tag/absolute-loader/ type="blank">absolute loader
+ 4. Programming loading and execution <a href="https://ehpub.co.kr/tag/absolute-loader/" type="blank">absolute loader
 
  
