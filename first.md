@@ -8,7 +8,12 @@ ex)input by C, java, Kernal, vim ,.., database,..
 <h5>Bridge between User and Computer(compiler..assembler..test editor..database system)</h5>
 
 <h4>System and application program(시스템 및 응용프로그램)</h4>
-ex)
+ex)With Bridge + a
 
-<h4>Operating system(운영체제)/h4>
-ex)
+<h4>Operating system(운영체제)</h4>
+ex)Linux, Window, ...
+ 
+<h4>Computer hardware</h4>
+ex)CPU, DRAM(Memory), ...
+  
+ 
