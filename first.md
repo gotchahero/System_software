@@ -42,7 +42,8 @@ ex)CPU, DRAM(Memory), ...
 
  
  <h4>System-Level I/O</h4>
- CPU[register, ALU(==산술 논리 장치), <==bus interface]
+ CPU[register, ALU(==산술 논리 장치), <==bus interface] <=====>(system <b>bus</b>) I/O Bridge <=====>(memory <b>bus</b>)
+                                                                               <=======>(I/O <b>bus</b>)
  
  Sequence of Systemcalls
  
