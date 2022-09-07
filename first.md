@@ -40,6 +40,12 @@ ex)CPU, DRAM(Memory), ...
  ==> 좀 뒤에 나오는 open() close()의 과정에서 개념을 좀 잡음.
  ex) telenet, ping, kill
  
+ 
+ Sequence of Systemcalls
+
+ All the file has 'Inode'
+ Inode == Address of file in Memory.
+ cf)<a href="https://thenicesj.tistory.com/217"type="blank">Hard link, Symbolic link</a>
 
 
  
