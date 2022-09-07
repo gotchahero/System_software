@@ -52,6 +52,13 @@ ex)CPU, DRAM(Memory), ...
  
  USB Controller[keyboard, mouse], Graphics adapter[monitor], disk controller[disk], //====>(expension slots) slots for other devices(like network adapters)
  
+ 만약 I/O 측에서 CPU에게 일정한 파일들을 저장하라는 요구가 왔을 때.
+ 1. I/O ==> (system bus) ==> CPU(bus interface==>registerfile<===> ALU)
+ 2. 저장할 위치에 대한 명령. CPU ==> (system bus ==> I/O bus) ==> disk controller(disk) <<CPU가 명령을 내린 이후 또 다른 명령을 다시 처리한다.>>
+ 3. 메인메모리로 저장. disk controller ==> (I/O bus ==> system bus) ==> main memory 
+ 
+ 
+ 
  <h4>Sequence of Systemcalls</h4>
  
  If you want to open file, you may use function "open()".
