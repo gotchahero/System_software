@@ -47,8 +47,9 @@ ex)CPU, DRAM(Memory), ...
  
  
  CPU[register, ALU(==산술 논리 장치), <-bus interface] <=====>(system <b>bus</b>) I/O Bridge <=====>(memory <b>bus</b>)
-                                                                               
-                                                                                <=======>(I/O <b>bus</b>)
+ 
+ <=======>(I/O <b>bus</b>)
+ 
  USB Controller[keyboard, mouse], Graphics adapter[monitor], disk controller[disk], ====>(expension slots) slots for other devices(like network adapters)
  
  Sequence of Systemcalls
