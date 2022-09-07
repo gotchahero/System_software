@@ -6,7 +6,7 @@
 ex)input by C, java, Kernal, vim ,.., database,..
 <=> (connect)
 <h5>Bridge between User and Computer(compiler..assembler..test editor..database system)</h5>
->>
+>> (Union down)
 <h4>System and application program(시스템 및 응용프로그램)</h4>
 text editor, compiler ...
  
