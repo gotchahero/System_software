@@ -57,7 +57,7 @@ ex)CPU, DRAM(Memory), ...
  2. 저장할 위치에 대한 명령. CPU ==> (system bus ==> I/O bus) ==> disk controller(disk) <CPU는 명령을 내린 이후 다른 명령을 병렬로 처리한다.>
  3. 메인메모리로 저장. disk controller ==> (I/O bus ==> system bus) ==> main memory 
  
- <a href="https://soobindeveloper8.tistory.com/175" type="blank><h4>Unix files</h4></a>
+ <h4><a href="https://soobindeveloper8.tistory.com/175" type="blank>Unix files</a></h4>
  유닉스 체제 안에서 모든 I/O 장치와 커널은 파일로 표현된다.
  또한 유닉스 파일은 sequence of m bytes다.
  B0, B1, ... , Bk, ... Bm-1
