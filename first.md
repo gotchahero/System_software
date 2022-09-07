@@ -39,14 +39,20 @@ ex)CPU, DRAM(Memory), ...
  5. Communication : provide the mechanism for creating virtual connections among processes, users, and computer systems.
  ==> 좀 뒤에 나오는 open() close()의 과정에서 개념을 좀 잡음.
  ex) telenet, ping, kill
+
  
+ <h4>System-Level I/O</h4>
+ CPU[register, ALU(==산술 논리 장치), <==bus interface]
  
  Sequence of Systemcalls
+ 
+ If you want to open file, you may use function "open()".
 
  All the file has 'Inode'
  Inode == Address of file in Memory.
  
  cf)<a href="https://thenicesj.tistory.com/217" type="blank">Hard link, Symbolic link</a>
+ 
 
 
  
