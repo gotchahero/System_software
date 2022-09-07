@@ -20,6 +20,12 @@ ex)CPU, DRAM(Memory), ...
 
  So what is System software?
  ==>Controlling and allocating resources(CPU, Memory, I/o devices(mouse..keyboard ..)
+ ==>효율적으로 컴퓨터의 리소스를 관리하고 할당하는 소프트웨어.
  
+ <h4>Type of system software(or programming)</h4>
+ 1. File management (ex)Linxu command like cp, cd, ls, rm, mv, rename, ...
+ 2. 
+ 3. Programming language support (ex) gcc, g++, javac, jython ...(somthing like compile option of linux ...)
+ 4. Programming loading and execution <a href="https://ehpub.co.kr/tag/absolute-loader/type="blank">absolute loader
 
  
